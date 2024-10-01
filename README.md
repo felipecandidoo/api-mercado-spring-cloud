@@ -3,6 +3,16 @@
 ## Descrição
 Esta API fornece funcionalidades para gerenciar o estoque de produtos em um mercadinho. A API é construída utilizando Spring Boot, JPA, Lombok e PostgreSQL, além de implementar microserviços com Eureka e Spring Cloud Gateway.
 
+## Equipe
+
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/felipecandidoo"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/felipecandidoo" width="100px;" alt=""/><br /><sub><b>Felipe Cândido</b></sub></a><br /><a href="https://github.com/felipecandidoo" title="Felipe Cândido"></a></td>
+    <td align="center"><a href="https://github.com/JoaoDiniz409"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/JoaoDiniz409" width="100px;" alt=""/><br /><sub><b>José Carlos</b></sub></a><br /><a href="https://github.com/hellomp" title="Joao Victor"></a></td>
+    <td align="center"><a href="https://github.com/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/" width="100px;" alt=""/><br /><sub><b>Gabriel Araújo</b></sub></a><br /><a href="https://github.com/tiagodalmeida87" title="Gabriel Araújo"></a></td>
+  </tr>
+</table>
+
 ## Estrutura do Projeto
 
 ### Dependências
@@ -267,9 +277,11 @@ Esta API fornece funcionalidades para gerenciar o estoque de produtos em um merc
 
 ![image](https://github.com/user-attachments/assets/ed29ddba-bdd2-461a-9868-d164f169133d)
 
-#Load Balance
+# Load Balance
 ## Exemplo do Load Balance funcionado, a cada requisição ele regula em qual instância será requisitado
 
-![Demonstração da Aplicação](.C:\Users\felip\Downloads\2024-10-01-02-55-00.gif)
+![Demonstração da Aplicação](./2024-10-01-02-55-00.gif)
+
+Obs.: meu pc quase explode fazendo isso :expressionless:
 
 
