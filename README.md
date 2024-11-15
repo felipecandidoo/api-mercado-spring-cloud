@@ -277,11 +277,6 @@ Esta API fornece funcionalidades para gerenciar o estoque de produtos em um merc
 
 ![image](https://github.com/user-attachments/assets/ed29ddba-bdd2-461a-9868-d164f169133d)
 
-# Load Balance
-## Exemplo do Load Balance funcionado, a cada requisição ele regula em qual instância será requisitado
 
-![Demonstração da Aplicação](./2024-10-01-02-55-00.gif)
-
-Obs.: meu pc quase explode fazendo isso :expressionless:
 
 
