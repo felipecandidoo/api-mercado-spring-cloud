@@ -8,9 +8,6 @@ Esta API fornece funcionalidades para gerenciar o estoque de produtos em um merc
 <table>
   <tr>
     <td align="center"><a href="https://github.com/felipecandidoo"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/felipecandidoo" width="100px;" alt=""/><br /><sub><b>Felipe Cândido</b></sub></a><br /><a href="https://github.com/felipecandidoo" title="Felipe Cândido"></a></td>
-    <td align="center"><a href="https://github.com/JoaoDiniz409"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/JoaoDiniz409" width="100px;" alt=""/><br /><sub><b>José Carlos</b></sub></a><br /><a href="https://github.com/hellomp" title="Joao Victor"></a></td>
-    <td align="center"><a href="https://github.com/"><img style="border-radius: 50%;" src="https://avatars.githubusercontent.com/" width="100px;" alt=""/><br /><sub><b>Gabriel Araújo</b></sub></a><br /><a href="https://github.com/tiagodalmeida87" title="Gabriel Araújo"></a></td>
-  </tr>
 </table>
 
 ## Estrutura do Projeto
